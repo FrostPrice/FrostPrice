@@ -1,6 +1,25 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm currenly studying Computer Science
+### About Me :
+
+I'm a developer... :man_facepalming:
+
+- Currently studying Computer Science
+
+- Find interresting to explore new technologies
+
+- I like to develop with Rust 
+ 
+> Still want to find the difference between shooting myself in the leg and programming with Rust
+
+---
+
+### :fire: My Stats :
+[![FrostPrice GitHub stats](https://github-readme-stats.vercel.app/api?username=FrostPrice&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrostPrice&theme=monokai)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrostPrice&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **FrostPrice/FrostPrice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
