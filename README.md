@@ -8,7 +8,7 @@ I'm a developer... :man_facepalming:
 
 - Find interresting to explore new technologies
 
-- I like to develop with Rust 
+- I like to develop with Rust :nerd_face:	
  
 > Still want to find the difference between shooting myself in the leg and programming with Rust
 
