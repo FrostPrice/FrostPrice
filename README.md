@@ -10,7 +10,7 @@ I'm a developer... :man_facepalming:
 
 - I like to develop with Rust :nerd_face:	
  
-> Still want to find the difference between shooting myself in the leg and programming with Rust
+> Still want to find the difference between shooting myself in the foot and programming with Rust
 
 ---
 
