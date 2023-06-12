@@ -31,4 +31,4 @@ I'm a developer... :man_facepalming:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrostPrice&theme=monokai)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrostPrice&theme=monokai&hide=jupyter%20notebook,ShaderLab,csharp)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrostPrice&theme=monokai&hide=jupyter%20notebook,ShaderLab,c%23)](https://github.com/anuraghazra/github-readme-stats)
