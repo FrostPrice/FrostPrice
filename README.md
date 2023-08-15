@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋
 
-### About Me :
+## About Me:
 
-I'm a developer... :man_facepalming:
+Hello! I'm Mateus Barbosa, a passionate and dedicated developer with a diverse skill set and a keen interest in technology. I specialize in web development, utilizing modern tools and frameworks to create immersive and user-friendly experiences. Beyond web development, I'm also enthusiastic about cybersecurity and low-level programming, exploring the intricacies that these fields offer.
 
-- Currently studying Computer Science
+## Skills
 
-- Find interresting to explore new technologies
+- **Web Development:** Proficient in creating responsive and dynamic web applications using Vue.js 3, HTML5, CSS3, and JavaScript/TypeScript.
+- **Full-Stack Development:** Experienced in building both frontend and backend components to create seamless end-to-end solutions.
+- **Rust:** Familiar with the Rust programming language, enabling me to craft efficient and secure software.
+- **Docker & Kubernetes:** Skilled in containerization and orchestration for streamlined deployment and scaling of applications.
+- **Bash & Linux:** Proficient in Linux environments and shell scripting, ensuring efficient system management and automation.
+- **Git:** Experienced in version control, collaborating effectively with teams and managing codebase history.
+- **Computer Networking:** Understanding of networking concepts for optimized communication between systems.
+- **IT Expertise:** Knowledgeable in IT practices, ensuring systems are robust, secure, and reliable.
 
-- I like to develop with Rust :nerd_face:	
- 
 > Still want to find the difference between shooting myself in the foot and programming with Rust
+
+## Interests :nerd_face:	
+
+- **Web Development:** Continuously enhancing my web development skills, exploring the latest trends and techniques.
+- **Cybersecurity:** Delving into the world of cybersecurity to understand vulnerabilities and implement best practices.
+- **Low-Level Programming:** Exploring the depths of programming, from system-level operations to hardware interactions.
+  
+---
+
+## Contact Me
+
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/yourprofile) for collaboration opportunities, discussions, or just to say hello!
+
+Let's collaborate and create amazing technological solutions together! 🚀
+ 
+---
 
 ### Languages and Tools:
 <div>
