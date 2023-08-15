@@ -1,8 +1,6 @@
 # Hi there 👋
 
-## About Me:
-
-Hello! I'm Mateus Barbosa, a passionate and dedicated developer with a diverse skill set and a keen interest in technology. I specialize in web development, utilizing modern tools and frameworks to create immersive and user-friendly experiences. Beyond web development, I'm also enthusiastic about cybersecurity and low-level programming, exploring the intricacies that these fields offer.
+I'm Mateus Barbosa, a passionate and dedicated developer with a diverse skill set and a keen interest in technology. I specialize in web development, utilizing modern tools and frameworks to create immersive and user-friendly experiences. Beyond web development, I'm also enthusiastic about cybersecurity and low-level programming, exploring the intricacies that these fields offer.
 
 ---
 
