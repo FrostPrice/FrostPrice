@@ -2,8 +2,6 @@
 
 I'm Mateus Barbosa, a passionate and dedicated developer with a diverse skill set and a keen interest in technology. I specialize in web development, utilizing modern tools and frameworks to create immersive and user-friendly experiences. Beyond web development, I'm also enthusiastic about cybersecurity and low-level programming, exploring the intricacies that these fields offer.
 
----
-
 ## Skills
 
 - **Web Development:** Proficient in creating responsive and dynamic web applications using Vue.js 3, HTML5, CSS3, and JavaScript/TypeScript.
@@ -17,15 +15,11 @@ I'm Mateus Barbosa, a passionate and dedicated developer with a diverse skill se
 
 > Still want to find the difference between shooting myself in the foot and programming with Rust
 
----
-
 ## Interests :nerd_face:	
 
 - **Web Development:** Continuously enhancing my web development skills, exploring the latest trends and techniques.
 - **Cybersecurity:** Delving into the world of cybersecurity to understand vulnerabilities and implement best practices.
 - **Low-Level Programming:** Exploring the depths of programming, from system-level operations to hardware interactions.
-  
----
 
 ## Contact Me
 
