@@ -52,4 +52,4 @@ Let's collaborate and create amazing technological solutions together! 🚀
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrostPrice&theme=monokai)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrostPrice&theme=monokai&hide=jupyter%20notebook,ShaderLab,c%23, VHDL)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrostPrice&theme=monokai&hide=jupyter%20notebook,ShaderLab,c%23,VHDL)](https://github.com/anuraghazra/github-readme-stats)
