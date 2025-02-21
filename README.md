@@ -50,6 +50,6 @@ Let's collaborate and create amazing technological solutions together! 🚀
 ### :fire: My Stats :
 [![FrostPrice GitHub stats](https://github-readme-stats.vercel.app/api?username=FrostPrice&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FrostPrice&theme=monokai)]
+[GitHub Streak](https://streak-stats.demolab.com/?user=FrostPrice&theme=monokai)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrostPrice&theme=monokai&hide=jupyter%20notebook,ShaderLab,c%23,VHDL)](https://github.com/anuraghazra/github-readme-stats)
